@@ -1,0 +1,21 @@
+DEPLOYMENT STRATEGY
+Frontend + Backend
+
+Use:
+
+Vercel
+Database
+
+Use:
+
+Supabase
+Authentication
+
+Use:
+
+Clerk
+AI API
+
+Use:
+
+Google AI Studio (Gemini)
